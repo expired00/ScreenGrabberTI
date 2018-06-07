@@ -1,0 +1,12 @@
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\bin\Debug\ScreenGrabberTI.exe.config
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\bin\Debug\ScreenGrabberTI.exe
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\bin\Debug\ScreenGrabberTI.pdb
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.csprojResolveAssemblyReference.cache
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.Properties.Resources.resources
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.csproj.GenerateResource.cache
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.csproj.CoreCompileInputs.cache
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.exe
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.pdb
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.Form1.resources
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.Form2.resources
+c:\users\t930976\source\repos\ScreenGrabberTI\ScreenGrabberTI\obj\Debug\ScreenGrabberTI.Form3.resources

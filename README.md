@@ -1,0 +1,2 @@
+# ScreenGrabberTI
+Automated ScreenCapturing
